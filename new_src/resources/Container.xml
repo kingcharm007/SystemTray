@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<containers>
+    <container name="civicgov1h">
+        <subcontainer credential="users1" url="http://www.awishcar.com/" >yong</subcontainer>
+        <subcontainer credential="users1" url="http://www.awishcar.com/">mook kim</subcontainer>
+        <subcontainer credential="users1" url="http://www.awishcar.com/">mkyong</subcontainer>
+        <subcontainer credential="users1" url="http://www.awishcar.com/">awishcar</subcontainer>
+    </container>
+    <container name="civicgov1f">
+        <subcontainer credential="users1" url="http://www.awishcar.com/">low</subcontainer>
+        <subcontainer credential="users1" url="http://www.awishcar.com/">yin fong</subcontainer>
+        <subcontainer credential="users1" url="http://www.awishcar.com/">fong fong</subcontainer>
+        <subcontainer credential="users1" url="http://www.awishcar.com/">hgjh</subcontainer>
+    </container>
+    <credential name="users1">
+        <username>usr</username>
+        <password>pswd</password>
+    </credential>
+</containers>
+    
